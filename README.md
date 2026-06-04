@@ -8,6 +8,12 @@ Once the time is up, the body part needing tending will light up.
 
 Picking a longer timespan should not feel less demanding, as no matter the timespan, the time may be up in the first minute.
 
+### PLANS:
+- possibility to manually choose the body part (for the coach)
+- more bodyparts, more concrete definitions (wrists, knees, hips, etc.)
+
+Any bugs? Report to the issues
+
 <br/>
 
 <strong>UA</strong> - Українська
@@ -17,4 +23,11 @@ Picking a longer timespan should not feel less demanding, as no matter the times
 Після того як час спливе спрацює сигнал, і на діаграмі запалиться частина тіла, на яку необхідно накласти турнікет.
 
 Вибір довшого проміжку часу, не гарантує що можна "розслабитися". Час може сплисти в першу хвилину не залежно від того який проміжок було обрано.
+
+### ПЛАНИ НА ПОДАЛЛЬШУ РОЗРОБКУ:
+- можливість вручну обирати кінцівку (для тренерів)
+- більше частин тіла та більш конкретні частини тіла (зап'ястя, коліно, стегно, і т.і.)
+
+Баги? Опишіть і додайте проблему в секцію "Issues"
+
 
